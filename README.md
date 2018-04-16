@@ -32,3 +32,8 @@ In this project, we take TMDB database from Kaggle, which is a subset of IMDB da
 2. Whcih cast has appeared the most?
 3. Which genre were more successful?
 4. Which month released highest number of movies in all of the years? And which month made the most profit?
+
+
+## Results
+
+All the answers are explained in investiage.ipynb file with necessary documentation
