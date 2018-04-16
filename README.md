@@ -1,4 +1,7 @@
 # Investiage_a_dataset_TMDB
+
+Read 'investigate.ipynb' or 'investigate.html' to view the notebook
+
 A part of UDACITY Data Analyst Nano Degree
 
 
@@ -36,4 +39,4 @@ In this project, we take TMDB database from Kaggle, which is a subset of IMDB da
 
 ## Results
 
-All the answers are explained in investiage.ipynb file with necessary documentation
+All the answers are explained in investiage.ipynb file with necessary documentation. The same notebook is saved as HTML file and is named 'investiage.html'
